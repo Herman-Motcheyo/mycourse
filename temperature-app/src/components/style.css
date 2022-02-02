@@ -1,0 +1,27 @@
+
+
+.content{
+    width: 400px;
+    height: 480px;
+    background-color: aqua;
+    color:white;
+    text-align: center;
+    position: relative;
+    left: 80vh;
+    border-radius: 3rem;
+}
+.box-content{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 7rem;
+    left:6.5rem;
+}
+.button-el{
+display: flex;
+justify-content: flex-start;
+position: relative;
+top: 11rem;
+left: 7rem;  
+color: rgb(1, 132, 207);
+}
