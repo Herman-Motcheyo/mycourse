@@ -30,7 +30,7 @@ function TempCom() {
     return (
         <div className='bg-gray-300  text-center'>
             <div className="card">
-                <div className="card-header">3. Temperature Control App</div>
+                <div className="card-header"> <p style = {{fontSize:"80px" , color:'black'}}> Temperature Control App</p> </div>
                 <div className="content" style={{ backgroundColor: 'gray' }}>
                     <div className="rounded-full  box-content" style={{ backgroundColor:color }}><p style={{fontWeight:'bold', fontSize:'65px'}}> {temp_value}³C</p></div>
 
